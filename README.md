@@ -1,0 +1,1 @@
+# 2026_2_PA1_AB_GestorTorneio
