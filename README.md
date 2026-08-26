@@ -70,12 +70,12 @@ erDiagram
 
 ### Principais Entidades:
 
-* `Leagues`: Ligas ou entidades organizadoras.
-* `Tournaments`: Edições de campeonatos com regras específicas de pontuação e desempate.
-* `Teams` & `Athletes`: Cadastro e relacionamento de elencos por edição.
-* `Matches`: Confrontos com local, data, árbitro designado e status.
-* `MatchEvents`: Eventos atômicos em campo (gols, cartões amarelos/vermelhos, substituições).
-* `Sponsors`: Banners e marcas vinculadas a campeonatos e súmulas.
+* `Ligas`: Ligas ou entidades organizadoras.
+* `Campeonatos`: Edições de campeonatos com regras específicas de pontuação e desempate.
+* `Times` & `Atletas`: Cadastro e relacionamento de elencos por edição.
+* `Partidas`: Confrontos com local, data, árbitro designado e status.
+* `EventosPartida`: Eventos atômicos em campo (gols, cartões amarelos/vermelhos, substituições).
+* `Patrocinadores`: Banners e marcas vinculadas a campeonatos e súmulas.
 
 ---
 
