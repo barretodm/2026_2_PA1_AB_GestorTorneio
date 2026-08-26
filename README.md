@@ -49,6 +49,7 @@ flowchart TD
 * **Capitão:** *“Antes de cada rodada, quero verificar com clareza quais atletas estão suspensos, para que meu time não cometa erros de escalação e perca pontos na justiça desportiva.”*
 * **Atleta:** *“Após o término da partida, quero consultar meus gols e histórico atualizados em um link público, para que eu possa acompanhar e compartilhar meu desempenho.”*
 * **Patrocinador:** *“Durante toda a temporada, quero que minha marca apareça vinculada às páginas e súmulas oficiais, para que meu investimento tenha visibilidade digital comprovada na comunidade.”*
+* **Torcedor e Comunidade Local:** *“A qualquer momento da semana, quero consultar locais, horários e a classificação atualizada em um canal público confiável, para que eu possa acompanhar o time do meu bairro sem depender de grupos fechados de mensagens.”*
 
 ---
 
