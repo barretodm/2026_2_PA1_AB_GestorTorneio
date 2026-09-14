@@ -1,0 +1,302 @@
+# Canvas de Proposta de Valor
+
+**Produto:** Plataforma de gestão de campeonatos e ligas esportivas amadoras
+
+---
+
+## 1. Organizadores de liga/campeonato (clientes pagantes B2B)
+
+### Tarefas
+* Montar a tabela de classificação e o calendário de confrontos inserindo os parâmetros e regras do torneio
+* Controlar cartões acumulados e calcular suspensões sem somar anotações manualmente
+* Cadastrar e organizar equipes, comissões técnicas e atletas participantes por edição
+* Delegar o preenchimento da súmula para os árbitros registrarem os eventos direto pelo celular
+* Acompanhar o pagamento das taxas de inscrição e a situação financeira básica de cada time
+* Inserir e gerenciar marcas de patrocinadores nas páginas do torneio para cumprir acordos comerciais
+* Divulgar resultados, classificação e chaveamentos para os times com um único link público
+* Consultar e comparar históricos de estatísticas e desempenhos de temporadas passadas
+* Definir o regulamento da competição (critérios de desempate, pontuação e limites de elenco)
+* Validar e homologar os relatórios e súmulas enviados pelos árbitros após o término das partidas
+
+### Dores
+* Risco de erro de cálculo em fórmulas manuais de saldo/confronto direto, gerando contestação pública dos times
+* Retrabalho exaustivo de somar cartões manualmente na madrugada pós-rodada e risco de permitir jogador irregular em campo
+* Dados de elencos espalhados em conversas de WhatsApp e fotos de documentos, causando desorganização e perda de histórico
+* Dependência de súmulas em papel rasuradas, ilegíveis ou perdidas que atrasam o fechamento da rodada
+* Dificuldade de comprovar retorno e visibilidade aos patrocinadores além de faixas físicas no campo
+* Sobrecarga com mensagens repetitivas de técnicos e atletas cobrando tabelas, locais e horários atualizados
+* Falta de controle centralizado sobre quais times já quitaram a taxa de inscrição do campeonato
+* Desgaste na relação com dirigentes de equipes devido a contestações sobre critérios de desempate
+* Sensação de sobrecarga operacional transformando o torneio em um segundo trabalho exaustivo e não remunerado
+* Inexistência de um histórico digital consolidado das edições anteriores da competição
+
+### Ganhos
+* Tabela de classificação e chaveamentos atualizados instantaneamente e livres de erros de cálculo
+* Controle automatizado de cartões amarelos/vermelhos e lista de suspensos gerada pelo sistema
+* Redução drástica do tempo gasto com tarefas operacionais e manuais nos fins de semana
+* Aparência e padrão profissionais para a competição, atraindo mais equipes e visibilidade
+* Canal único e oficial para consulta pública, eliminando cobranças repetitivas em grupos de mensagens
+* Proposta de valor estruturada para atrair e reter patrocinadores com espaços de mídia digital
+* Controle claro sobre o fluxo de recebimento das taxas de inscrição por equipe
+* Segurança jurídica e desportiva com relatórios e eventos de jogo auditáveis
+* Histórico preservado de todas as edições, artilharias e campeões da liga
+* Reconhecimento perante a comunidade esportiva como uma liga séria, organizada e confiável
+
+### Produtos e Serviços
+* Painel administrativo web/mobile para gestão completa de ligas e campeonatos
+* Motor de regras configurável para cálculo automático de tabelas, pontuação e critérios de desempate
+* Algoritmo de suspensão automática configurável por acúmulo de cartões ou expulsões
+* Módulo de homologação rápida de súmulas enviadas pela arbitragem
+* Módulo financeiro básico para controle de taxas de inscrição por equipe
+* Gerenciador de banners e espaços publicitários digitais para marcas parceiras
+* Página pública oficial da liga com link único para consulta responsiva (PWA/Mobile-First)
+* Módulo de cadastro e importação em lote de elencos, comissões técnicas e documentos
+
+### Aliviadores de Dores
+* Elimina erros de soma e fórmula ao calcular pontos, saldo de gols e desempates automaticamente
+* Acaba com o retrabalho manual pós-jogo ao processar cartões e suspensões assim que a súmula é fechada
+* Substitui fichas de papel e mensagens avulsas por cadastros estruturados de times e atletas
+* Remove o atrito com súmulas físicas ilegíveis ao disponibilizar envio digital direto pelo árbitro
+* Reduz a enxurrada de perguntas no WhatsApp ao concentrar tudo em uma página pública atualizada
+* Minimiza a inadimplência com status visual simples de equipes pagas e pendentes
+* Blinda o organizador contra contestações de dirigentes através de logs claros de eventos de jogo
+
+### Geradores de Ganhos
+* Eleva a percepção de valor e profissionalismo da liga, permitindo cobrar inscrições mais valorizadas
+* Aumenta a receita da competição ao abrir espaços formais de mídia digital para marcas locais
+* Devolve tempo livre ao organizador para focar na captação de times e na experiência do evento
+* Fideliza as equipes para temporadas seguintes pela transparência e organização apresentadas
+* Cria um ativo digital de longo prazo com histórico estatístico consolidado de todo o futebol regional
+
+---
+
+## 2. Patrocinadores e marcas locais (financiadores de mídia)
+
+### Tarefas
+* Exibir a marca nas páginas públicas do campeonato, perfis de times e súmulas digitais
+* Associar o negócio à identidade de eventos esportivos com alto engajamento comunitário
+* Ter um canal digital consolidado para divulgar produtos e serviços ao público local
+* Acompanhar onde e como a marca está exposta ao longo de toda a temporada
+* Substituir acordos informais de faixa/banner físico por presença digital contínua
+* Alcançar um público segmentado por bairro e modalidade esportiva
+
+### Dores
+* Investimento restrito a banners físicos no campo sem presença digital contínua ou mensuração de alcance
+* Acordos informais com organizadores sem formalização nem garantia de entrega da visibilidade prometida
+* Falta de métricas sobre quantas pessoas realmente viram ou interagiram com a marca
+* Banners físicos no campo que rasgam, sujam ou são ignorados pelo público presente
+* Dificuldade de justificar o gasto de marketing em eventos esportivos comunitários informais
+* Perda de conexão com o público jovem que consome esportes quase que exclusivamente pelo smartphone
+* Dependência exclusiva de menções manuais e esporádicas nos stories de redes sociais da liga
+
+### Ganhos
+* Presença digital contínua da marca em páginas que atletas e torcedores consultam repetidamente
+* Comprovação documentada e profissional da exposição da marca ao longo de todo o torneio
+* Associação da empresa ao apoio genuíno do esporte e da comunidade do bairro
+* Canal direto e limpo para veiculação de marcas sem competir com a poluição de redes sociais abertas
+* Relacionamento comercial mais transparente, recorrente e profissional com os organizadores
+* Reconhecimento da marca como incentivadora do lazer regional perante os moradores locais
+
+### Produtos e Serviços
+* Espaços de banners publicitários integrados às páginas públicas de campeonatos, equipes e jogos
+* Inclusão do logotipo de patrocinadores nas súmulas digitais públicas e relatórios de partidas
+* Painel básico de visualizações para acompanhamento da exposição de marca na temporada
+* Página de apoiadores oficiais da liga com link direto para o site ou WhatsApp da empresa
+
+### Aliviadores de Dores
+* Elimina a informalidade de acordos de boca ao garantir inserção visual contratual em páginas públicas
+* Reduz a dependência de faixas físicas vulneráveis a intempéries no alambrado do campo
+* Diminui a insegurança do investimento ao atrelar a marca a páginas de alta consulta recorrente
+* Acaba com a falta de retorno visível ao registrar a marca em todas as súmulas e tabelas oficiais
+
+### Geradores de Ganhos
+* Fortalece a reputação e lembrança da marca junto ao público que reside e consome no próprio bairro
+* Aumenta a taxa de conversão local ao permitir cliques diretos do banner para o canal do patrocinador
+* Gera prova institucional de investimento comunitário para o portfólio de responsabilidade social da empresa
+* Destaca o patrocinador perante concorrentes da região que não investem em iniciativas locais
+
+---
+
+## 3. Administradores de time (capitães e técnicos)
+
+### Tarefas
+* Inscrever o elenco e comissão técnica de forma digital e simplificada
+* Consultar a lista de atletas pendurados e suspensos antes de cada rodada
+* Acompanhar horários, locais e confrontos confirmados sem depender de mensagens soltas
+* Conferir a pontuação e saldo de gols do time atualizados imediatamente após o apito final
+* Notificar atletas sobre convocações e detalhes das partidas em um canal oficial
+* Auditar a súmula da partida para garantir que gols e cartões foram atribuídos corretamente
+
+### Dores
+* Processo burocrático e confuso de envio de fichas manuais e fotos de documentos para a organização
+* Falta de clareza sobre suspensões acumuladas, gerando risco de escalação irregular e perda de pontos
+* Demora de dias para a organização consolidar a tabela e divulgar a classificação oficial da rodada
+* Falta de registro claro pós-jogo, gerando discussões e divergências com a arbitragem
+* Sobrecarga ao acumular a função de gestor burocrático, técnico e cobrador de atletas no WhatsApp
+* Desinformação sobre locais e horários de jogos que mudam de última hora sem aviso centralizado
+* Ausência de um registro histórico da evolução, vitórias e estatísticas do time ao longo do ano
+
+### Ganhos
+* Certeza absoluta de quais atletas estão aptos ou suspensos antes de fechar a escalação da rodada
+* Acompanhamento em tempo real da tabela de classificação e saldo de gols logo após o apito final
+* Inscrição ágil de atletas pelo celular sem necessidade de preencher papéis ou fichas físicas
+* Canal único e oficial para verificar calendário, adversários, campos e horários das partidas
+* Respaldo e transparência na conferência de gols e cartões registrados oficialmente na súmula
+* Menos tempo gasto cobrando atletas e mais tempo focado na preparação esportiva da equipe
+
+### Produtos e Serviços
+* Módulo web responsivo de gestão de equipe (painel do capitão/técnico)
+* Formulário simplificado de inscrição de atletas e upload de fotos/documentos
+* Painel de controle disciplinar do time com alertas visuais de atletas suspensos e pendurados
+* Notificações de confirmação de horários, locais e chaveamento dos confrontos
+* Espelho digital da súmula da partida para conferência e solicitação de correções
+
+### Aliviadores de Dores
+* Elimina o medo de perder pontos por escalação irregular com sinalização clara de jogadores suspensos
+* Acaba com a confusão de horários de jogos dispersos em prints e mensagens de WhatsApp
+* Reduz a burocracia de inscrição substituindo documentos impressos por formulários rápidos no celular
+* Remove a incerteza pós-jogo ao permitir auditar a súmula digital assim que o árbitro a encerra
+
+### Geradores de Ganhos
+* Aumenta o foco da equipe no desempenho dentro de campo ao automatizar a burocracia de gestão
+* Projeta uma imagem mais profissional e organizada do time perante torcedores e adversários
+* Facilita o alinhamento com o elenco ao disponibilizar um link com dados oficiais da competição
+* Cria um sentimento de valorização no elenco ao ver o histórico e trajetória do clube documentados
+
+---
+
+## 4. Atletas amadores
+
+### Tarefas
+* Consultar a própria situação de cartões e suspensões a qualquer momento
+* Visualizar o histórico individual de gols, partidas e desempenho na temporada
+* Acessar a tabela de classificação, próximos jogos e resultados pelo smartphone
+* Verificar escalações e confirmações de presença para as rodadas
+* Compartilhar atuações, gols e posições do time com amigos e familiares
+
+### Dores
+* Dependência de perguntar ao capitão ou organizador para saber se está apto a jogar
+* Ausência de histórico e estatísticas individuais registradas de forma oficial e acessível
+* Informações fragmentadas e desatualizadas postadas de forma esporádica em redes sociais
+* Frustração ao descobrir que está suspenso apenas na beira do campo, logo antes do jogo começar
+* Gols ou atuações de destaque que não são computados por erro de preenchimento na súmula de papel
+* Sensação de desvalorização por disputar campeonatos amadores que não deixam registros da sua trajetória
+
+### Ganhos
+* Acesso rápido e direto ao próprio status disciplinar (cartões acumulados e suspensões)
+* Perfil do atleta com registro histórico de gols, jogos disputados e cartões no campeonato
+* Visualização instantânea da classificação e artilharia do torneio pelo smartphone
+* Certeza de que seus gols e assistências foram registrados oficialmente pelo árbitro
+* Facilidade para compartilhar estatísticas individuais e conquistas da equipe nas redes sociais
+* Sensação de participar de uma competição com experiência próxima à de ligas profissionais
+
+### Produtos e Serviços
+* Perfil digital individual do atleta com histórico de gols, jogos e cartões acumulados
+* Página pública do torneio mobile-first com ranking de artilheiros e estatísticas em destaque
+* Consulta rápida de status disciplinar por atleta sem necessidade de login complexo
+* Cartões compartilháveis de resumo de partida e artilharia para publicação em redes sociais
+
+### Aliviadores de Dores
+* Elimina a surpresa de ser barrado no jogo ao permitir checar a própria situação disciplinar com antecedência
+* Acaba com a desinformação ao dar acesso direto à tabela oficial sem depender de repasses do capitão
+* Reduz discussões pós-jogo ao registrar a autoria oficial dos gols na súmula validada
+* Remove a frustração da invisibilidade ao registrar o desempenho esportivo em base de dados definitiva
+
+### Geradores de Ganhos
+* Estimula o engajamento e a competitividade saudável na disputa pela artilharia da competição
+* Proporciona sensação de valorização e prestígio pessoal ao ter um histórico esportivo documentado
+* Aumenta a interação social ao permitir compartilhar dados oficiais de gols e vitórias com amigos
+* Cria pertencimento e identificação com o campeonato, motivando a presença contínua nas rodadas
+
+---
+
+## 5. Árbitros da competição
+
+### Tarefas
+* Registrar gols, substituições e cartões em interface móvel durante ou após o jogo
+* Enviar a súmula finalizada instantaneamente para homologação da organização
+* Consultar a numeração e identificação oficial dos atletas cadastrados por equipe
+* Validar as escalações iniciais e reservas entregues pelas comissões técnicas antes da partida
+* Inserir observações disciplinares e ocorrências atípicas ocorridas durante o confronto
+
+### Dores
+* Uso de papel e prancheta vulneráveis a chuva, vento forte, sujeira, rasuras e perda de anotações
+* Cobrança imediata do organizador logo após a partida enquanto o árbitro ainda precisa apitar outros jogos
+* Letra ilegível ou rasuras em súmula física que causam divergências e polêmicas desnecessárias
+* Dificuldade de conferir a documentação física de atletas sob o sol ou em campos abertos
+* Retrabalho de tirar foto de súmula em papel ou transcrever dados manualmente ao final da rodada
+* Risco de ser culpabilizado por erros que foram apenas de transcrição manual de relatório
+
+### Ganhos
+* Registro rápido e objetivo de eventos de jogo direto na tela do smartphone com poucos toques
+* Envio instantâneo da súmula ao apito final, encerrando o trabalho administrativo imediatamente
+* Interface otimizada que funciona mesmo em ambientes com internet fraca ou instável (offline-first)
+* Lista oficial de atletas com numeração e foto na tela, agilizando a conferência pré-jogo
+* Redução de desgastes com comissões técnicas devido a registros claros, digitais e sem ambiguidade
+* Reconhecimento pela organização e pelos times como uma equipe de arbitragem moderna e profissional
+
+### Produtos e Serviços
+* Módulo móvel de súmula digital com interface tátil ágil e botões grandes para beira de campo
+* Arquitetura offline-first para registro contínuo de eventos mesmo sem conexão de internet ativa
+* Checklist de conferência e escalação pré-jogo integrado aos elencos cadastrados
+* Campo dedicado para inserção rápida de relatórios disciplinares e ocorrências do confronto
+* Botão de finalização com sincronização automática com o servidor assim que houver sinal
+
+### Aliviadores de Dores
+* Acaba com o uso de pranchetas de papel danificadas pelo clima e canetas que falham em campo
+* Elimina a perda de tempo no fim do dia transcrevendo papéis ou enviando fotos borradas de relatórios
+* Blinda o árbitro contra contestações de caligrafia ilegível por meio de dados digitais padronizados
+* Remove a responsabilidade de calcular de cabeça cartões acumulados de rodadas passadas
+
+### Geradores de Ganhos
+* Agiliza o intervalo entre jogos consecutivos, tornando a jornada de trabalho da arbitragem menos cansativa
+* Eleva o respeito e a autoridade da arbitragem em campo ao utilizar tecnologia moderna de anotação
+* Garante que os relatórios cheguem de forma intacta e pontual para a homologação da liga
+* Facilita a contratação recorrente da equipe de arbitragem por ligas que valorizam a pontualidade
+
+---
+
+## 6. Torcedores e comunidade local
+
+### Tarefas
+* Consultar dias, horários e locais dos próximos jogos do time do bairro
+* Acompanhar a tabela de classificação e resultados atualizados em um único link público
+* Visualizar detalhes da partida, artilheiros e súmula digital
+* Seguir o desempenho de amigos, parentes e times locais ao longo do campeonato
+* Acessar informações sem precisar estar em grupos fechados de WhatsApp das equipes
+* Descobrir eventos esportivos amadores acontecendo na vizinhança ou região
+
+### Dores
+* Desinformação sobre a agenda dos jogos, resultando em perda de partidas por falta de aviso
+* Informação dispersa em grupos fechados de mensagens aos quais o público geral não tem acesso
+* Falta de cobertura estruturada do futebol local em canais públicos e confiáveis
+* Dificuldade de saber quem fez os gols ou como a partida se desenrolou sem ter ido ao campo
+* Tabelas de classificação publicadas em redes sociais com dias de atraso e dados inconsistentes
+* Falta de clareza sobre quais são os critérios de chaveamento para fases eliminatórias do torneio
+
+### Ganhos
+* Acesso imediato a uma página pública atualizada com horários, campos, classificação e artilharia
+* Acompanhamento transparente do time da comunidade em tempo real, rodada após rodada
+* Facilidade para encontrar e prestigiar jogos presenciais de amigos e conhecidos no bairro
+* Acesso às informações oficiais sem precisar pedir favores a integrantes de grupos de WhatsApp
+* Fortalecimento do sentimento de orgulho comunitário ao ver o campeonato do bairro organizado
+* Acesso a estatísticas confiáveis para debater rivalidades locais com respaldo de dados
+
+### Produtos e Serviços
+* Portal público da competição otimizado para navegadores móveis sem barreira de login ou download obrigatório
+* Calendário de jogos pesquisável por data, local, categoria e equipe
+* Tabela de classificação interativa com critérios de desempate e saldo de gols atualizados em tempo real
+* Linha do tempo visual da partida (súmula pública) exibindo autores dos gols, cartões e substituições
+* Botões de compartilhamento direto de jogos e classificações para o WhatsApp e redes sociais
+
+### Aliviadores de Dores
+* Elimina a incerteza de horários e locais ao centralizar o calendário de jogos em um canal oficial
+* Acaba com a dependência de intermediários em grupos fechados para saber o placar das partidas
+* Remove o atraso na divulgação de resultados ao disponibilizar atualizações logo após o apito final
+* Mitiga discussões infundadas na comunidade ao fornecer dados legítimos e transparentes de pontuação
+
+### Geradores de Ganhos
+* Aumenta a presença de público nos campos de várzea e quadras locais ao divulgar o calendário com clareza
+* Fomenta o engajamento e a cultura esportiva no bairro com um acompanhamento similar ao profissional
+* Proporciona entretenimento acessível e organizado para moradores e famílias da região
+* Fortalece a conexão comunitária e o apoio ao comércio local que patrocina os eventos esportivos
