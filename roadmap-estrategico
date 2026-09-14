@@ -1,0 +1,116 @@
+# Roadmap Estratégico
+
+## Pilares Estratégicos
+* **Automação Confiável e Tempo Real:** Eliminar erros manuais de cálculo em tabelas e suspensões, garantindo que regras cadastradas reflitam com precisão na classificação pública.
+* **Operação de Campo Descomplicada (Súmula Digital):** Garantir que o árbitro consiga registrar os eventos do jogo de forma ágil, mesmo offline, para acelerar o fechamento das rodadas.
+* **Transparência e Canal Oficial Único:** Acabar com a desinformação em grupos de WhatsApp, criando um "hub" público onde times, atletas e torcedores consultam dados oficiais.
+* **Visibilidade Comprovada para Patrocinadores:** Estruturar espaços de mídia digital (banners, logos em súmulas) para transformar o apoio informal em publicidade mensurável.
+* **Redução da Sobrecarga do Organizador:** Transformar a gestão exaustiva em uma rotina leve de conferência, devolvendo tempo para captação de novas equipes.
+* **Monetização B2B Direta:** Modelo SaaS por liga/torneio (ou taxa por time inscrito), sem depender inicialmente de transações financeiras de usuários finais.
+* **Ciclo Contínuo de Validação:** Coleta constante de feedback de organizadores, capitães e árbitros para garantir a adesão nos fluxos mais críticos (súmula e tabela).
+
+---
+
+## Fase 1: MVP de Gestão Essencial (O Core B2B)
+**Duração:** 6-8 semanas  
+**Foco estratégico:** Construir o motor principal da plataforma: cadastro estruturado, parametrização de regras e geração automática de tabelas a partir de inserção manual de resultados.
+
+### Principais Entregas
+* Cadastro de Organizador, Ligas, Torneios e Clubes.
+* Motor de regras do campeonato (critérios de pontuação, saldo de gols, confronto direto).
+* Cadastro de elenco e comissões técnicas (formulário simplificado).
+* Geração automática de calendário e chaveamento de jogos.
+* Lançamento manual de resultados (placar final) pelo organizador via painel admin.
+* Tabela de classificação atualizada automaticamente após o lançamento do placar.
+* Página pública básica (PWA) indexável contendo a classificação e horários da rodada.
+* Instrumentação de analytics (criação de torneios, times cadastrados, visualizações de tabela).
+
+### Métricas
+* Tempo médio de configuração de um novo torneio: <= 15 minutos.
+* Precisão do algoritmo de classificação: 100% (zero reports de erro de cálculo).
+* Percentual de times com elenco cadastrado (>10 atletas) nos torneios criados: >= 70%.
+* Taxa de sucesso no carregamento da página pública por rodada: >= 99%.
+* NPS do Organizador (após o fechamento da 1ª rodada do piloto): >= 40.
+
+---
+
+## Fase 2: Automação de Campo (Súmula Digital e Suspensões)
+**Duração:** 8-10 semanas  
+**Foco estratégico:** Eliminar o papel da beira do campo e automatizar a dor mais sensível dos times: o controle de cartões, suspensões e artilharia.
+
+### Principais Entregas
+* Aplicativo/Módulo mobile (PWA) focado no Árbitro, com suporte a operação *offline-first*.
+* Registro de eventos da partida: escalação inicial, gols, cartões amarelos/vermelhos e substituições.
+* Sincronização e envio da súmula digital para homologação automática do organizador.
+* Algoritmo de suspensão disciplinar (ex: suspende após 3 amarelos ou 1 vermelho).
+* Painel do Capitão para visualização de atletas aptos, pendurados e suspensos.
+* Evolução da página pública: inclusão de artilharia, ranking de cartões e linha do tempo do jogo.
+* Relatório PDF/Digital da súmula final para download.
+
+### Métricas
+* Taxa de adoção da súmula digital (partidas com súmula preenchida no app vs total): >= 80% nos torneios pilotos.
+* Tempo médio de preenchimento e envio da súmula pelo árbitro pós-jogo: <= 5 minutos.
+* Zero falhas de sincronização de dados armazenados em modo offline.
+* Redução de chamados/mensagens dos capitães sobre "quem está suspenso" (estimado via feedback qualitativo).
+* MAU (usuários únicos na página pública) por torneio rodando: >= 300 usuários.
+
+---
+
+## Fase 3: Monetização, Patrocínios e Gestão Financeira
+**Duração:** 8-10 semanas  
+**Foco estratégico:** Viabilizar o modelo de negócios cobrando pelas ferramentas premium e dando ferramentas para as ligas monetizarem seus torneios locais.
+
+### Principais Entregas
+* Implementação de paywall/SaaS B2B para o Organizador (ex: grátis até 8 times, pago acima disso).
+* Gerenciador de espaços publicitários (Banners) para o Organizador subir logos de patrocinadores.
+* Exibição nativa de patrocinadores nas páginas de classificação, times e cabeçalho das súmulas.
+* Relatório básico de impressões/visualizações de banners para prestação de contas com o anunciante.
+* Módulo financeiro básico: controle de status de pagamento (pago/pendente) da taxa de inscrição por equipe.
+* Perfis individuais de Atletas (histórico de gols e cartões compartilháveis nas redes sociais).
+
+### Métricas
+* Conversão de organizadores free trial para plano pago (ou retenção da taxa de uso): >= 15%.
+* Ligas ativas que utilizam o módulo de patrocinadores: >= 50%.
+* CTR (Click-Through Rate) médio dos banners de patrocinadores nas páginas públicas: >= 2%.
+* Taxa de inadimplência de times reduzida nos torneios que utilizam o módulo financeiro (comparativo histórico).
+* Sessões geradas via compartilhamento de perfil de atleta nas redes sociais: >= 10% do tráfego total.
+
+---
+
+## Fase 4: Escala B2B2C e Engajamento da Comunidade
+**Duração:** 10-12 semanas  
+**Foco estratégico:** Aumentar a densidade de torneios simultâneos, melhorar a experiência mobile do torcedor e criar barreiras de saída (lock-in) pelo histórico consolidado.
+
+### Principais Entregas
+* Descoberta regional: busca de campeonatos locais ativos por estado/cidade.
+* Favoritar times e campeonatos para acesso rápido no celular.
+* Notificações (Push/Web) para times e torcedores: "O jogo vai começar", "Placar final", "Súmula publicada".
+* Funcionalidades avançadas de chaveamento (grupos cruzados, repescagem, eliminatórias complexas).
+* Módulo de denúncia/recurso para os times contestarem súmulas diretamente pelo sistema.
+* Playbook de aquisição B2B focado em associações de árbitros, complexos esportivos e ligas municipais.
+
+### Métricas
+* LTV:CAC estimado do cliente B2B (Organizador): >= 4:1.
+* Opt-in de notificações entre torcedores e atletas: >= 30%.
+* Aumento do número de sessões semanais por usuário que "favoritou" um time: +40%.
+* Crescimento viral: % de novos organizadores que entraram na plataforma porque viram (ou jogaram) um torneio rodando nela: >= 25%.
+* Churn mensal de Ligas organizadoras (entre temporadas): <= 5%.
+
+---
+
+## Fase 5: Expansão de Esportes e Ofertas Premium
+**Duração:** +12 semanas  
+**Foco estratégico:** Escalar a arquitetura agnóstica para novos esportes e habilitar integrações avançadas que agreguem alto valor percebido.
+
+### Principais Entregas
+* Expansão oficial do modelo de dados para novas modalidades (ex: Vôlei, Basquete, E-sports) com regras de pontuação próprias (sets, quartos).
+* Integração nativa com APIs de pagamento (PIX) para os times pagarem a taxa de inscrição direto na plataforma (comissão/take-rate opcional).
+* Portal do Patrocinador (acesso direto da marca aos relatórios de campanha).
+* API pública ou Webhooks para ligas maiores que desejam integrar resultados com sites próprios.
+* Testes A/B contínuos em fluxos de criação de campeonato e experiência da súmula mobile.
+
+### Métricas
+* Adoção de torneios fora do core Futebol/Futsal: >= 15% dos novos torneios criados.
+* Volume Transacionado (GMV) via pagamento de inscrições na plataforma (se modelo comissionado for ativado).
+* NPS geral da comunidade (times e atletas): >= 50.
+* MRR (Monthly Recurring Revenue) B2B sustentável para atingimento de *break-even* operacional.
