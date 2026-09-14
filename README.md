@@ -1,4 +1,4 @@
-# 🏆 Plataforma de Gestão de Ligas e Campeonatos Esportivos Amadores
+# 🏆 TORNEIOZ - Plataforma de Gestão de Ligas e Campeonatos Esportivos Amadores
 
 Uma plataforma digital **B2B2C** projetada para modernizar a gestão do esporte amador, substituindo o ecossistema fragmentado de planilhas de Excel, anotações em papel e grupos de WhatsApp por uma solução integrada, escalável e agnóstica ao esporte (com piloto inicial focado em **Futebol e Futsal**).
 
@@ -8,7 +8,7 @@ Uma plataforma digital **B2B2C** projetada para modernizar a gestão do esporte 
 
 **Para** organizadores de ligas e campeonatos, patrocinadores locais, administradores de times, atletas amadores, árbitros e torcedores da comunidade,  
 **Que** enfrentam uma gestão fragmentada em planilhas manuais, anotações de papel e grupos de WhatsApp, sofrendo com retrabalho operacional, erros no cálculo de tabelas e falta de comprovação de retorno para marcas parceiras,  
-**A** [Nome da Plataforma]  
+**A** TORNEIOZ 
 **É uma** plataforma web e mobile-first B2B2C de gestão esportiva e vitrine de ligas amadoras  
 **Que** profissionaliza a experiência do esporte amador ao automatizar a apuração de resultados, chaveamentos e controle disciplinar, viabilizando súmulas digitais direto de campo e criando um canal público oficial.  
 **Diferente de** planilhas de Excel, grupos fechados de mensagens e aplicativos genéricos de reservas de quadras,  
