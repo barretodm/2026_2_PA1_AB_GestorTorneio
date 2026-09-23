@@ -151,12 +151,47 @@ erDiagram
 
 ---
 
+## 📚 Documentação do Produto
+
+Todo o material de descoberta, estratégia e discovery do produto está versionado neste repositório:
+
+### Pesquisa e Discovery
+- [Entrevistas](entrevistas.md) — Registro das entrevistas realizadas com os stakeholders.
+- [Roteiro de Entrevista de Empatia](questionarios-entrevista.md)
+- [Questionário de Empatia (Google Forms Único)](questionario-forms-unico.md)
+- [Mapas de Empatia](mapas-de-empatia.md) — Um por segmento de stakeholder.
+
+### Estratégia e Definição do Produto
+- [Segmentos de Clientes](segmentos-de-clientes.md)
+- [Problem-Solution Fit Canvas](problem-solution-fit-canvas.md)
+- [Business Model Canvas](business-model-canvas.md)
+- [Canvas de Proposta de Valor](canvas-proposta-valor)
+- [Escopo: É / Não É / Faz / Não Faz](e-nao-e-faz-nao-faz.md)
+- [Jobs to be Done (JTBD)](jobs-to-be-done.md)
+- [Visão do Produto (documento completo)](visao-do-produto)
+- [Roadmap Estratégico (documento completo)](roadmap-estrategico)
+
+### Personas e Jornadas
+- [Personas](personas.md)
+- [Jornadas dos Usuários](jornadas-usuario.md)
+
+### Histórias de Usuário
+- [Organizador de Liga/Campeonato](historias-usuario-organizador.md)
+- [Árbitro da Competição](historias-usuario-arbitro.md)
+- [Administrador de Time (Capitão/Técnico)](historias-usuario-administrador-time.md)
+- [Atleta Amador](historias-usuario-atleta.md)
+- [Patrocinador e Marca Local](historias-usuario-patrocinador.md)
+- [Torcedor e Comunidade Local](historias-usuario-torcedor.md)
+
+---
+
 ## 🚀 Próximos Passos do Desenvolvimento
 
 - [x] Definição de Escopo (É / Não É / Faz / Não Faz)
 - [x] Mapeamento de Empatia dos 6 Stakeholders
 - [x] Problem-Solution Fit Canvas e Jobs to be Done
 - [x] Visão do Produto e Roadmap Estratégico
+- [x] Personas, Jornadas dos Usuários e Histórias de Usuário dos 6 Stakeholders
 - [ ] Especificação Técnica dos Casos de Uso do MVP (Súmula Offline-First)
 - [ ] Prototipação UI/UX das Páginas Públicas e Módulo do Árbitro
 - [ ] Implementação do Backend (Express/Node.js) e Modelagem Relacional (PostgreSQL)
